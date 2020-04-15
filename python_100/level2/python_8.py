@@ -25,5 +25,7 @@ for i in res :
     print(i[1],end=',')
 
 
-
+    # rawList = ["没有","你好","袋","世界"]
+    # rawList.sort(reverse=True)
+    # print(rawList)
 

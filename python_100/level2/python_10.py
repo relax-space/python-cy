@@ -31,3 +31,10 @@ print('数字:',count_num)
 print('字母:',count_word)
 
 
+
+
+# import re
+# rawStr="hello world! 123"
+# str = "".join(re.findall(r"[a-zA-Z]",rawStr))
+# numb = "".join(re.findall(r"[0-9]",rawStr))
+# print(f"字母{len(str)}数字{len(numb)}")
