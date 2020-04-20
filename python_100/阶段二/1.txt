@@ -1,0 +1,7 @@
+json字符串，dict，对象，之间的相互转换
+读写文件 和excel
+正则匹配：从这个地址中取出fruits,地址可能是 /v1/fruits?name=1，或者/v1/fruits/1,或者/v1/fruits
+爬取数据：爬取京东商品信息（网上很多资源，例如：https://www.jianshu.com/p/b2d288e67fa3）
+爬取数据：爬取自己账号下的，dooray 担当业务箱的内容
+多线程
+用pyppeteer登录淘宝
