@@ -1,0 +1,12 @@
+14.python如何实现单例模式?请写出两种实现方式?
+31.统计一个文本中单词频次最高的10个单词？
+40.统计一段字符串中字符出现的次数
+
+
+
+
+
+
+
+41.super函数的具体用法和场景:https://python3-cookbook.readthedocs.io/zh_CN/latest/c08/p07_calling_method_on_parent_class.html
+
